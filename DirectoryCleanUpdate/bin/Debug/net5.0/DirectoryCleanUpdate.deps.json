@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DirectoryCleanUpdate/1.0.0": {
+        "runtime": {
+          "DirectoryCleanUpdate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DirectoryCleanUpdate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

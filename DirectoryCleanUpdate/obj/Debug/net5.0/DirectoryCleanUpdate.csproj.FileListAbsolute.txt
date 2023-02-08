@@ -1,0 +1,16 @@
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\DirectoryCleanUpdate.exe
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\DirectoryCleanUpdate.deps.json
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\DirectoryCleanUpdate.runtimeconfig.json
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\DirectoryCleanUpdate.runtimeconfig.dev.json
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\DirectoryCleanUpdate.dll
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\ref\DirectoryCleanUpdate.dll
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\bin\Debug\net5.0\DirectoryCleanUpdate.pdb
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.AssemblyInfo.cs
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.dll
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\ref\DirectoryCleanUpdate.dll
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.pdb
+C:\Users\artem\Desktop\DirectoryCleanUpdate\DirectoryCleanUpdate\obj\Debug\net5.0\DirectoryCleanUpdate.genruntimeconfig.cache

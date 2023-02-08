@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wm1sVhdijUPyzOTJUc+LxO8Y2QJjf7Mr2q1gFl9YVS8OiGh/my8K78DA6FMzW3s4i4mQ2aBNrEunTbduD0iaKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\Desktop\\DirectoryCleanUpdate\\DirectoryCleanUpdate\\DirectoryCleanUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
